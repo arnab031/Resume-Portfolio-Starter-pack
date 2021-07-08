@@ -1,45 +1,35 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Arnab Bhakta",
+    "occupation": "Student",
+    "description": "I love to learn & explore new techonology",
+    "image": "profilepic.jpeg",
+    "bio": "Hi there! I am Arnab! I am currently doing my B.TECH in CSE. In my 3 years of journey as an Engineering Student I learnt lot of things such as Web Development, Deep Learning, IoT, AR. But among them I love web development a lot. I want to become a fullstack developer in my near future and try to add some value for my society.",
+    "contactmessage": "Get in touch with me!",
+    "email": "arnabbhakta31@gmail.com",
+    "phone": "+91 7001137276",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Padmapukur",
+      "city": "Tarakeswar",
+      "state": "West Bengal",
+      "zip": "712410"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://pdfhost.io/v/naJ5WtUfl_Arnabs_Resume_5pdf.pdf",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/arnab297/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/arnab-bhakta-296958178/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/arnab031",
         "className": "fa fa-github"
       }
     ]
@@ -48,74 +38,80 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Future Institute of Engineering & Management",
+        "degree": "B.TECH, Computer Science",
+        "graduated": "July 2018 - Present",
+        "description": "Average SGPA 9.09(till 5th Sem)"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Higher Seconadary(12th)",
+        "title": "Courses - PCM with Computer Science",
+        "years": "April 2016 - Feb 2018",
+        "description": "Got 87.4% in board"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
         "level": "70%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "65%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Amazon Clone (React JS, NextAuth Authentication, API, Webhooks, Stripe)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "amazon-1.png",
+        "url": "https://www.arnab031.codes"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Gmail Clone (React JS, Redux, Firebase, Material Icons)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "gmail-1.png",
+        "url": "https://clone-1cd31.web.app"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "LinkedIn Clone (React JS, Redux, Firebase, Material Icons)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "linkedin-1.png",
+        "url": "https://linkedin-clone-7a453.web.app"
+      },
+      {
+        "title": "Slack Clone (React JS, Redux, Firebase, Material Icons)",
+        "category": "",
+        "image": "slack-1.png",
+        "url": "https://slack-clone-1685e.web.app"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Life is filled you have to do and what you love to do. surely do what you love to do, but also start loving what you have to do. That is the secret of happiness.",
+        "user": "Gaur Gopal Das"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "It’s important to figure out who you’re not, in order  to figure out who you are.",
+        "user": "Jay Shetty"
       }
     ]
   }

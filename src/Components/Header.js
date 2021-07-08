@@ -4,9 +4,9 @@ import TypeWriter from "react-typewriter";
 const Header = ({ data }) => {
   if (data) {
     var name = data.name;
-    var occupation = data.occupation;
-    var description = data.description;
-    var city = data.address.city;
+    // var occupation = data.occupation;
+    // var description = data.description;
+    // var city = data.address.city;
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
@@ -51,7 +51,7 @@ const Header = ({ data }) => {
           </li>
           <li>
             <a className="smoothscroll" href="#testimonials">
-              Testimonials
+              Inspiration
             </a>
           </li>
           <li>
@@ -68,7 +68,7 @@ const Header = ({ data }) => {
             <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
           </h1>
           <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
+            I love to <span>learn & explore</span> new technology.
           </h3>
           <hr />
           <ul className="social">{networks}</ul>
